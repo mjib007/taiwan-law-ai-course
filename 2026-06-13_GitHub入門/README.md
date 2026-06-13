@@ -47,7 +47,8 @@
 
 | 檔案 | 說明 |
 |------|------|
-| `github_intro_2026-06-13.pptx` | 課程投影片（14 張） |
+| [🖥️ 線上瀏覽投影片](https://docs.google.com/presentation/d/1Xmoj_NOFbOl-JqpyeS0eRyxG99ItJVbYAVYDVo566y4/edit?usp=sharing) | 瀏覽器直接看（Google Slides）|
+| `github_intro_2026-06-13.pptx` | 下載版（PowerPoint）|
 | `README.md` | 本頁說明 |
 
 ---
