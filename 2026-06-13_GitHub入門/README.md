@@ -1,27 +1,69 @@
-# 2026-06-13 GitHub 入門
+# 📖 2026-06-13 GitHub 入門
 
-## 課程資訊
+![Date](https://img.shields.io/badge/日期-2026--06--13-blue)
+![Duration](https://img.shields.io/badge/時數-1小時-green)
+![Level](https://img.shields.io/badge/程度-入門-orange)
+![Tool](https://img.shields.io/badge/工具-Git%20%7C%20GitHub-181717?logo=github)
+
+> 從零開始學習 GitHub，建立第一個 Repo，完成第一次 Commit。
+
+---
+
+## 📋 課程資訊
 
 | 項目 | 內容 |
 |------|------|
 | 日期 | 2026-06-13 |
 | 主題 | GitHub 入門 |
-| 對象 | 法律與AI課程學員 |
+| 對象 | 法律與 AI 課程學員 |
 | 時數 | 1 小時 |
+| 講師 | 錢世傑 |
 
-## 課程大綱
+---
 
-1. 為什麼要用 GitHub？（10 分鐘）
-2. 核心概念：Repo / Commit / Branch / Fork（15 分鐘）
-3. 動手操作：建立第一個 Repo（20 分鐘）
-4. GitHub 在你的場景怎麼用（10 分鐘）
-5. Q&A + 課後任務（5 分鐘）
+## 🗂️ 課程大綱
 
-## 課後任務
+| # | 主題 | 時間 |
+|---|------|------|
+| 1 | 為什麼要用 GitHub？ | 10 分鐘 |
+| 2 | Git vs GitHub／核心概念 | 15 分鐘 |
+| 3 | Git 安裝確認與實作示範 | 15 分鐘 |
+| 4 | 動手操作：建立第一個 Repo | 10 分鐘 |
+| 5 | GitHub 在你的場景 | 5 分鐘 |
+| 6 | Q&A + 課後任務 | 5 分鐘 |
 
-- ⭐ 建立自己第一個 public repo，上傳一份文件
-- ⭐ Fork 本課程 repo，在你的版本加一行自我介紹
+---
 
-## 檔案清單
+## ✨ 本堂課學完你會
 
-- `slides.pptx`（待上傳）
+- 知道 Git 和 GitHub 的差別
+- 看懂 `git log`，理解 Commit 是什麼
+- 在 GitHub 上建立自己的第一個 Repo
+- 上傳一份檔案並完成第一次 Commit
+
+---
+
+## 📁 檔案清單
+
+| 檔案 | 說明 |
+|------|------|
+| `github_intro_2026-06-13.pptx` | 課程投影片（14 張） |
+| `README.md` | 本頁說明 |
+
+---
+
+## 🏠 課後任務
+
+| 難度 | 任務 |
+|------|------|
+| ⭐ 基本 | 建立自己第一個 Public Repo，上傳一份文件 |
+| ⭐⭐ 進階 | Fork 本課程 Repo，在 README 加一行自我介紹 |
+| ⭐⭐⭐ 挑戰 | 建立 Branch，修改後送出 Pull Request |
+
+完成後把你的 Repo 連結貼到群組，讓大家互相 Star！
+
+---
+
+## 🔗 返回
+
+[← 回到課程總目錄](../README.md)
