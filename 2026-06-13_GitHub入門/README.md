@@ -201,23 +201,31 @@ git push -u origin master
 
 ### 8｜建立 Branch 與 Pull Request
 
-**Branch（分支）= 草稿紙，PR = 說「我的草稿寫好了，請合併進正式版」**
+> Branch（分支）= 草稿紙，PR = 說「我的草稿寫好了，請合併進正式版」
 
-全程在 GitHub 網頁操作：
+全程在 GitHub 網頁操作，不需要任何指令。
 
 **Step 1：建立 Branch**
-1. repo 頁面左上角點 `main` 下拉
-2. 輸入新名稱，例如 `my-first-branch`
-3. 點 `Create branch: my-first-branch`
+
+1. 進入你的 repo 頁面
+2. 左上角點 **`main`** 或 **`master`** 下拉選單
+3. 在搜尋框輸入新名稱，例如 `my-first-branch`
+4. 點 **`Create branch: my-first-branch`**
 
 **Step 2：在 Branch 上修改**
+
 1. 確認左上角已切換到 `my-first-branch`
-2. 點任一檔案 → 鉛筆編輯 → Commit
+2. 點任一檔案（例如 README.md）→ 右上角鉛筆編輯
+3. 隨便改一行內容
+4. 按 **`Commit changes`**（這次 commit 只在 branch 上，不影響 main）
 
 **Step 3：送出 Pull Request**
-1. 點黃色提示條 `Compare & pull request`
-2. 填寫說明 → `Create pull request`
-3. `Merge pull request` → 合併回 main
+
+1. GitHub 會自動出現黃色提示條：**`Compare & pull request`**，點它
+2. 填寫說明（改了什麼）
+3. 點 **`Create pull request`**
+4. 確認沒問題後點 **`Merge pull request`** → 改動合併回 main
+5. 合併完成後可點 **`Delete branch`** 刪除草稿分支
 
 ---
 
@@ -237,7 +245,7 @@ git push -u origin master
 |------|------|
 | ⭐ 基本 | 建立自己第一個 Public Repo，上傳一份文件 |
 | ⭐⭐ 進階 | Fork 本課程 Repo，在 README 加一行自我介紹 |
-| ⭐⭐⭐ 挑戰 | 建立 Branch，修改後送出 Pull Request |
+| ⭐⭐⭐ 挑戰 | 建立 Branch，修改後送出 Pull Request（步驟見上方第 8 節）|
 
 完成後把你的 Repo 連結貼到群組，讓大家互相 Star！
 
